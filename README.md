@@ -34,3 +34,4 @@ How to build:
 
 Run tabler and select an input PDF file.
 
+[screen1.jpg]
