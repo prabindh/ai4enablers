@@ -34,4 +34,4 @@ How to build:
 
 Run tabler and select an input PDF file.
 
-![Screenshot](screen1.jpg)
+![Screenshot](tabler/screen1.jpg)
