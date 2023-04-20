@@ -5,7 +5,9 @@ AI tools for enablers working in various content conversion fields that are acce
 
 Some examples:
 
-1. An organisation working to convert printed books to Braille format using OCR
+1. An organisation working to convert printed books to Braille format using OCR. The first step involves scanning the printed book to PDF, followed by the step of OCR that converts the PDF to an editable MS-word document using OCR. 
+
+One of the biggest real challenges is - the software used to convert scanned pages to MS-word, does not work well for pages with tables, images. A lot of manual work is involved in then locating these pages in the document, then manually converting them to editable-tables in Word.
 
 Project 1 - Tabler
 
