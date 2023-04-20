@@ -8,9 +8,9 @@
 
 using namespace cv;
 
-std::string FILE_NAME = "C:/Users/psundareson/TOOLS/braille/test7-tricky.png";
-QString PDF_NAME = "C:/Users/psundareson/TOOLS/braille/tables.pdf";
-std::string PDF_PNG_NAME = "C:/Users/psundareson/TOOLS/braille/rocke-1.png";
+std::string FILE_NAME = "braille/test7-tricky.png";
+QString PDF_NAME = "braille/tables.pdf";
+std::string PDF_PNG_NAME = "braille/rocke-1.png";
 
 
 static constexpr int MIN_LINE_WIDTH   = 50;
